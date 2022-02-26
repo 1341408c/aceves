@@ -956,7 +956,7 @@ nav#filter a.current {
 	height: 430px;
 	min-height: 100px;
 	padding-top: 10px;
-	background:  url(/transportes.jpeg) no-repeat;
+	background:  url(../images/transportes.jpeg) no-repeat;
 	/*background: #ae130c;*/
 	background-size: cover;
 	text-align: left;
@@ -966,7 +966,7 @@ nav#filter a.current {
 	height: 430px;
 	min-height: 100px;
 	padding-top: 10px;
-	background:  url(/hotel.jpg) no-repeat;
+	background:  url(../images/hotel.jpg) no-repeat;
 	/*background: #ae130c;*/
 	background-size:cover;
 	text-align: left;
